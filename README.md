@@ -1,16 +1,16 @@
-### Hi there 👋
+### Just a guy fascinated with programming and technology.
+Trying to give back to the open source community that has helped me so much. 
 
-<!--
-**swfoster44/swfoster44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Street cred
+* Been in the game since 2001
+* NeoVim user.
+* Linux user. Ok I use windows for gaming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+* JavaScript: Eldritch abomination rising from the darkness to consume the earth. Got to admit it does some cool stuff.
+* Python: The cult is a little scary. Good language.
+* Rust: Couldn't stay awake while reading the documentation. Would love to learn it.
+* C: The manliest of all languages... Until you're crying in the corner because of some memory bs. A classic I'm trying to learn.
+* C++: When the abyss stares back. Another classic.
+* PHP: The best templating engine ever made. It has its uses....
+* C#: There is no reason to ever use this language.
